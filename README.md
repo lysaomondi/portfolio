@@ -1,8 +1,8 @@
-# 🌟 Portfolio Website
+# Portfolio Website
 
 This is my personal portfolio website showcasing my skills, projects, and experience as a web developer.
 
-Live Demo
+Live
 https://lysaomondi.github.io/portfolio/
 
 Built With
@@ -11,7 +11,7 @@ Built With
 * CSS
 * JavaScript
 
----
+
 Features
 
 * Responsive design
@@ -19,10 +19,6 @@ Features
 * Contact section
 * Social media links
 
----
-How to Run
-
- Author
-
-Lysa Omondi
+By
+ Lysa Omondi
 
